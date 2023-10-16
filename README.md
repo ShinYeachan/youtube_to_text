@@ -1,4 +1,4 @@
-# **MP4 to Text 웹사이트**
+# **Youtube to Text 웹사이트**
 
 Whisper AI 모델을 활용해 유투브 영상을 텍스트로 변환하는 웹사이트를 제작하였습니다.
 
