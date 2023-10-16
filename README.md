@@ -50,6 +50,7 @@ Whisper AI 모델을 활용해 유투브 영상을 텍스트로 변환하는 웹
 
     pip install -r requirements.txt
     
+<details>
 
 | 라이브러리 | 설명                                                         |
 |---|------------------------------------------------------------|
@@ -71,6 +72,7 @@ Whisper AI 모델을 활용해 유투브 영상을 텍스트로 변환하는 웹
 | torchaudio | 오디오 처리를 위한 PyTorch 확장                                      |
 | torchvision | 컴퓨터 비전 작업을 위한 PyTorch 확장                                   |
 | wheel | 파이썬 배포 패키지 형식을 지원하는 도구                                     |
+</details>
 
 ## ** 어플리케이션 기능**
 
